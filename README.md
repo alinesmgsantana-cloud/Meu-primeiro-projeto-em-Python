@@ -3,6 +3,7 @@ Repositório dedicado à pratica de algoritmos e a lógica de programação, rea
 
 ```python
 
+
 """
 Projeto: Primeiro exercício solo em Python.
 Objetivo: Demonstrar a transição de lógica e síntaxe básica.
