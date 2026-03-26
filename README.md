@@ -1,5 +1,8 @@
 # Meu-primeiro-projeto-em-Python
 Repositório dedicado à pratica de algoritmos e a lógica de programação, realizando a transição da sintaxe do Portugol (Curso em Vídeo) em códigos em Python funcionais.
+
+
+
 """
 Projeto: Primeiro exercício solo em Python.
 Objetivo: Demonstrar a transição de lógica e síntaxe básica.
@@ -7,6 +10,8 @@ Autor: Aline Bessa Santana
 Data: 26/03/2026
 Roteiro: Entrevista com o terminal.
 """
+
+
 import time
 if __name__ == "__main__":
 
