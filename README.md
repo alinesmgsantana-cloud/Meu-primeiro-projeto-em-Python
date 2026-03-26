@@ -9,8 +9,6 @@ Autor: Aline Bessa Santana
 Data: 26/03/2026
 Roteiro: Entrevista com o terminal.
 """
-
-
 import time
 if __name__ == "__main__":
 
@@ -32,7 +30,6 @@ if __name__ == "__main__":
    contato = input(f"Perfeito, {nome}! Para finalizarmos, qual seria a forma de contatá-la?")
 
    print("Excelente! Já deixei anotado. Qualquer novidade eu entro em contato, sucesso na sua jornada e boms estudos!")
-
 ```
 
 
