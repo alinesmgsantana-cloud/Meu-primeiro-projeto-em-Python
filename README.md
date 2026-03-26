@@ -1,13 +1,18 @@
 # Meu-primeiro-projeto-em-Python
 
-# Projeto 01: Quem sou eu? (apresentação via terminal)
-Este é o meu primeiro contato prático com *Python*. Em vez de fazer uma apresentação estática, decidi criar um script que interage com o usuário para contar um pouco sobre minha trajetóriae minhas habilidades atuais.
+## Projeto 01: Quem sou eu? (apresentação via terminal)
+Este é o meu primeiro contato prático com *Python*.
+Em vez de fazer uma apresentação estática, decidi criar um script que interage com o usuário para contar um pouco sobre minha trajetóriae minhas habilidades atuais.
 ### Oque esse projeto representa:
-*Habilidade Profissional:* o código simula um sistema de triagem, mas o objetivo real é demonstrar como consigo aplicar lógica para estruturar informações.
-*Habilidades em construção :* Minha transição do portugol para sintaxe real do Python
+#### Habilidade Profissional:
+o código simula um sistema de triagem, mas o objetivo real é demonstrar como consigo aplicar lógica para estruturar informações.
+#### Habilidades em construção :
+Minha transição do portugol para sintaxe real do Python
 ### Oque você verá no código: (captura de tela 104839.png)
 -Uso de *f-strings* para respostas personalizadas.
+
 -Uso da biblioteca time para dar ritimo à interação.
+
 -Estrutura de entrada e saída de dados aplicada a um cenário real de apresentação.
 ### Resultado final: (captura de tela 100915.png)
 O terminal exibe uma conversa fluida onde apresento minha localização , minha graduação, e me objetivo de me torna uma profissional produtiva e resiliente na área de tecnologia.  
