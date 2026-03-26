@@ -5,9 +5,13 @@ Repositório dedicado à pratica de algoritmos e a lógica de programação, rea
 
 """
 Projeto: Primeiro exercício solo em Python.
+
 Objetivo: Demonstrar a transição de lógica e síntaxe básica.
+
 Autor: Aline Bessa Santana
+
 Data: 26/03/2026
+
 Roteiro: Entrevista com o terminal.
 """
 
