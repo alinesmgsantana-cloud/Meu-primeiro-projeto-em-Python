@@ -2,8 +2,6 @@
 Repositório dedicado à pratica de algoritmos e a lógica de programação, realizando a transição da sintaxe do Portugol (Curso em Vídeo) em códigos em Python funcionais.
 
 ```python
-
-
 """
 Projeto: Primeiro exercício solo em Python.
 Objetivo: Demonstrar a transição de lógica e síntaxe básica.
@@ -34,6 +32,7 @@ if __name__ == "__main__":
    contato = input(f"Perfeito, {nome}! Para finalizarmos, qual seria a forma de contatá-la?")
 
    print("Excelente! Já deixei anotado. Qualquer novidade eu entro em contato, sucesso na sua jornada e boms estudos!")
+
 ```
 
 
