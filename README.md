@@ -2,7 +2,7 @@
 
 ## Projeto 01: Quem sou eu? (apresentação via terminal)
 Este é o meu primeiro contato prático com *Python*.
-Em vez de fazer uma apresentação estática, decidi criar um script que interage com o usuário para contar um pouco sobre minha trajetóriae minhas habilidades atuais.
+Em vez de fazer uma apresentação estática, decidi criar um script que interage com o usuário para contar um pouco sobre minha trajetória e minhas habilidades atuais.
 ### Oque esse projeto representa:
 #### Habilidade Profissional:
 o código simula um sistema de triagem, mas o objetivo real é demonstrar como consigo aplicar lógica para estruturar informações.
